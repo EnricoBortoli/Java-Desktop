@@ -104,6 +104,8 @@ public class Endereco {
 	}
 
 	public String getEnderecoResumido() {
-		return rua + " nº" + numero + ", " + bairro + ", " + cidade + "/" + estado;
+		return rua + " nº" + numero + ", " + cidade;
 	}
+	
+	
 }
