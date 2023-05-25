@@ -1,4 +1,4 @@
-package view;
+package view.telefonia;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -37,7 +37,7 @@ public class TelaPrincipal extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
-		//mudanças
+		//mudanï¿½as
 	}
 
 }
